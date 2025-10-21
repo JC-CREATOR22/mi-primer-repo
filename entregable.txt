@@ -1,0 +1,17 @@
+Entregable - Práctica 1
+Entregable - Práctica 1
+
+Capturas de los pasos realizados:
+- evidencia_local_ls.png
+- evidencia_local_dir.png
+- evidencia cmd_dir.png
+- evidencia GitHub.png
+
+Evidencias del repositorio local y de GitHub:
+- Captura de ls -a: muestra .git, README.md, glosario.txt, entregable.txt
+- Captura de dir: muestra detalles de archivos
+- Captura de GitHub: https://github.com/JC-CREATOR22/mi-primer-repo
+
+Enlace al repositorio GitHub:
+https://github.com/JC-CREATOR22/mi-primer-repo
+https://github.com/JC-CREATOR22/Materia-Heroes
